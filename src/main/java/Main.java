@@ -7,4 +7,8 @@ public class Main {
     public void master_feature(){
 
     }
+
+    public void common_feature(){
+
+    }
 }
