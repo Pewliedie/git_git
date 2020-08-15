@@ -11,4 +11,8 @@ public class Main {
     public void common_feature(){
 
     }
+
+    public void develop_feature(){
+
+    }
 }
