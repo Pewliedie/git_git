@@ -4,9 +4,6 @@ public class Main {
         System.out.println("master commit");
         System.out.println("master commit");
     }
-    public void master_feature(){
-
-    }
 
     public void common_feature(){
 
