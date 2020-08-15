@@ -16,4 +16,12 @@ public class Main {
     public void develop_feature(){
 
     }
+
+    public void develop_feature2(){
+
+    }
+
+    public void develop_feature3(){
+
+    }
 }
